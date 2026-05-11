@@ -1,0 +1,6 @@
+{
+  "name": "Durak Strategist AI",
+  "description": "An AI-powered assistant for the Russian card game 'Durak'. Tracks game state and suggests moves with high winning probability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
