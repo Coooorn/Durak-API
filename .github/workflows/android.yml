@@ -51,8 +51,7 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: 8.14.3
-          wrapper-cache-enabled: true
-          wrapper-validation-enabled: false
+          validate-wrappers: false
 
       - name: Build Android APK
         run: |
